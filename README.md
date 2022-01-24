@@ -10,7 +10,9 @@ Demo of the American Financing use case integration with Google CC API and Dialo
 - Nexmo's Voice APIs
 
 ## Demo Video
-https://www.youtube.com/watch?v=ctfh9JSJBM0
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ctfh9JSJBM0/0.jpg)](https://www.youtube.com/watch?v=ctfh9JSJBM0)
+
 
 ## Documentation
 Complete documentation can be found here: [Google Docs](https://docs.google.com/document/d/1joa__7w1CWHCygXKD8Qb2Cgr5D0o7N23Ff6i869hKOA/edit#)
